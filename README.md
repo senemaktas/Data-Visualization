@@ -2,10 +2,6 @@
 
 #### Module 1 - Introduction to Visualization Tools
 #### Module 2 - Basic Visualization Tools
-- Area Plots
-- Histograms
-- Bar Charts
-
 #### Module 3 - Specialized Visualization Tools
 - Pie Charts
 - Box Plots
