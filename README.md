@@ -1,14 +1,9 @@
 ## Data-Visualization
 
-#### Module 1 - Introduction to Visualization Tools
-#### Module 2 - Basic Visualization Tools
-#### Module 3 - Specialized Visualization Tools
-- Pie Charts
-- Box Plots
-- Scatter Plots
-- Bubble Plots
-
-#### Module 4 - Extra Visualization Tools
+**Module 1 - Introduction to Visualization Tools**
+**Module 2 - Basic Visualization Tools**
+**Module 3 - Specialized Visualization Tools**
+**Module 4 - Extra Visualization Tools**
 - Waffle Charts
 - Word Clouds
 - Seaborn and Regression Plots
