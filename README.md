@@ -39,7 +39,7 @@
 |                    |               | Qlikview                  |
 
 <img src="images/percentage.jpg" alt="visualizing percentages"	width="600" height="500" /> 
-<img src="images/choosetherightone.jpg alt="choosetherightone"	width="600" height="500" />
+<img src="images/choosetherightone.jpg" alt="choosetherightone"	width="600" height="500" />
 
 <!-- ![Tux, the Linux mascot](/assets/images/tux.png)
 I love supporting the **[EFF](https://eff.org)**.
