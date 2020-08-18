@@ -4,7 +4,7 @@
 | -----------------------|------------------------|-----------------------|----------------------|
 | Line plot              | Pie chart              | Trellis diagram       |                      |
 | Box plot               | Bar chart              | Wind rose diagram     |                      |
-| Dot plot               | Radar chart            | Histogram             |                      |
+| Dot plot               | Radar chart            | Histogram             |     Spectrograms     |
 | Bar plot               | Correlogram            | Sankey diagram        |                      |
 | Scatter plot           | Heatmap                | Venn diagram          |                      | 
 | Q-Q plot               | Treemap                |                       |                      |
@@ -17,11 +17,36 @@
 | Bland-Altman plot      |                        |                       |                      |
 | Stem and Leaf Plot     |                        |                       |                      |
 | Raincloud plot         |                        |                       |                      |
-
+| Quiver plots           |                        |                       |                      |
 
 
 ## Visualization Tools/Programs
+- Tableu
 
 
+## Visualization Libraries
 
-## Visualization Packages
+### 1- Python            
+- Matplotlib
+- Seaborn
+- Plotly
+- ggplot
+- Altair
+- Bokeh
+- pygal
+- geoplotlib
+- Networkx
+- Gleam
+- missingno
+- Leather
+
+### 2- R
+- ggplot2
+- Lattice
+- highcharter
+- Leaflet
+- RColorBrewer
+- Plotly
+- sunburstR
+- RGL
+- dygraphs
