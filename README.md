@@ -20,33 +20,26 @@
 | Quiver plots           |                        |                       |                      |
 
 
-## Visualization Tools/Programs
-- Tableu
+## Visualization Libraries and Tools/Softwares
+
+| Python libraries   | R libraries   | Tools/Softwares           |  
+|--------------------|---------------|---------------------------|
+| Matplotlib         | ggplot2       | Tableau                   |
+| Seaborn            | Lattice       | Power BI                  |
+| Plotly             | highcharter   | Sisense                   |
+| ggplot             | Leaflet       | Zoho Reports              |
+| Altair             | RColorBrewer  | Google Data Studio        |
+| Bokeh              | Plotly        | Datawrapper               |
+| pygal              | sunburstR     | Chartbuilder              |
+| geoplotlib         | RGL           | FineReport                |
+| Networkx           | dygraphs      | Vega                      |
+| Gleam              |               | D3.js                     |
+| missingno          |               | Highcharts                |
+| Leather            |               | Information is Beautiful  |
+|                    |               | Qlikview                  |
 
 
-## Visualization Libraries
-
-### 1- Python            
-- Matplotlib
-- Seaborn
-- Plotly
-- ggplot
-- Altair
-- Bokeh
-- pygal
-- geoplotlib
-- Networkx
-- Gleam
-- missingno
-- Leather
-
-### 2- R
-- ggplot2
-- Lattice
-- highcharter
-- Leaflet
-- RColorBrewer
-- Plotly
-- sunburstR
-- RGL
-- dygraphs
+<!-- ![Tux, the Linux mascot](/assets/images/tux.png)
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code)-->
