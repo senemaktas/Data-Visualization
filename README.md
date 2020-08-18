@@ -1,44 +1,28 @@
 ## Data-Visualization
 
-| Plots                  | Charts                 | Diagrams              |  Others              |
-| -----------------------|------------------------|-----------------------|----------------------|
-| Line plot              | Pie chart              | Trellis diagram       |                      |
-| Box plot               | Bar chart              | Wind rose diagram     |                      |
-| Dot plot               | Radar chart            | Histogram             |     Spectrograms     |
-| Bar plot               | Correlogram            | Sankey diagram        |                      |
-| Scatter plot           | Heatmap                | Venn diagram          |                      | 
-| Q-Q plot               | Treemap                |                       |                      |
-| Density plot           | Area chart             |                       |                      |
-| Contour plot           | Stacked Area chart     |                       |                      |
-| Surface plot           | Stacked Line chart     |                       |                      |
-| Violin plot            |                        |                       |                      |
-| Time series plot       |                        |                       |                      |   
-| Biplot                 |                        |                       |                      |
-| Bland-Altman plot      |                        |                       |                      |
-| Stem and Leaf Plot     |                        |                       |                      |
-| Raincloud plot         |                        |                       |                      |
-| Quiver plots           |                        |                       |                      |
+
+| Python libraries   | R libraries   | Tools/Softwares        | Plots                 | Charts                 | Diagrams              |  Others              |
+|--------------------|---------------|------------------------|-----------------------|------------------------|-----------------------|----------------------|
+| Matplotlib         | ggplot2       | Tableau                | Line plot             | Pie chart              | Trellis diagram       |                      |
+| Seaborn            | Lattice       | Power BI               | Box plot              | Bar chart              | Wind rose diagram     |                      |
+| Plotly             | highcharter   | Sisense                | Dot plot              | Radar chart            | Histogram             |     Spectrograms     |
+| ggplot             | Leaflet       | Zoho Reports           | Bar plot              | Correlogram            | Sankey diagram        |                      |
+| Altair             | RColorBrewer  | Google Data Studio     | Scatter plot          | Heatmap                | Venn diagram          |                      | 
+| Bokeh              | Plotly        | Datawrapper            | Q-Q plot              | Treemap                |                       |                      |
+| pygal              | sunburstR     | Chartbuilder           | Density plot          | Area chart             |                       |                      |
+| geoplotlib         | RGL           | FineReport             | Contour plot          | Stacked Area chart     |                       |                      |
+| Networkx           | dygraphs      | Vega                   | Surface plot          | Stacked Line chart     |                       |                      |
+| Gleam              |               | D3.js                  | Violin plot           |                        |                       |                      |
+| missingno          |               | Highcharts             | Time series plot      |                        |                       |                      |   
+| Leather            |               | Information is Beautiful| Biplot               |                        |                       |                      |
+|                    |               | Qlikview               | Bland-Altman plot     |                        |                       |                      |
+|                    |               |                        | Stem and Leaf Plot    |                        |                       |                      |
+|                    |               |                        | Raincloud plot        |                        |                       |                      |
+|                    |               |                        | Quiver plots          |                        |                       |                      |
 
 
-## Visualization Libraries and Tools/Softwares
 
-| Python libraries   | R libraries   | Tools/Softwares           |  
-|--------------------|---------------|---------------------------|
-| Matplotlib         | ggplot2       | Tableau                   |
-| Seaborn            | Lattice       | Power BI                  |
-| Plotly             | highcharter   | Sisense                   |
-| ggplot             | Leaflet       | Zoho Reports              |
-| Altair             | RColorBrewer  | Google Data Studio        |
-| Bokeh              | Plotly        | Datawrapper               |
-| pygal              | sunburstR     | Chartbuilder              |
-| geoplotlib         | RGL           | FineReport                |
-| Networkx           | dygraphs      | Vega                      |
-| Gleam              |               | D3.js                     |
-| missingno          |               | Highcharts                |
-| Leather            |               | Information is Beautiful  |
-|                    |               | Qlikview                  |
-
-<img src="images/percentage.jpg" alt="visualizing percentages"	width="600" height="500" /> 
+<img src="images/percentage.jpg" alt="visualizing percentages"	width="700" height="600" /> 
 <img src="images/choosetherightone.jpg" alt="choosetherightone"	width="600" height="500" />
 
 <!-- ![Tux, the Linux mascot](/assets/images/tux.png)
